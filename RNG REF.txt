@@ -1,0 +1,14 @@
+1. https://security.stackexchange.com/questions/86430/linux-kernel-entropy-does-it-matter-to-dev-urandom-and-what-is-a-minimum
+2. https://lavanya-siliveri.medium.com/entropy-on-unix-linux-vms-and-how-it-is-impacting-your-weblogic-startup-time-e4ed0219502
+3. https://higherlogicdownload.s3.amazonaws.com/BROADCOM/161837.pdf?AWSAccessKeyId=ASIAVRDO7IERGSRYTVU4&Expires=1731433310&x-amz-security-token=IQoJb3JpZ2luX2VjEDgaCXVzLWVhc3QtMSJGMEQCICkLiwnVaxjyegxOToesYFJdYhGtdqax1BDuMzj7%2FEESAiAosU29ER%2B1TKCesP9PJXT0p50eesS8AesT01cZZ2SYASq5BQjB%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4MDMzNzM0MDcwNiIMSVPpqFRjgqZlmo%2BiKo0FqEJzYvBpw4Pi99cZfF%2FI7WfcmVs1WqgtbaE5Fa5e5awjdFp3RZhldF7DWf%2Bek6vmyxG4%2B9MtMy8RAtrIr5qv163fjEc9rtsdwe3%2BYvKxulckW5Wi8NyyLUF%2Fyk0Mji7zFDAVMsGx%2F%2FXDexWWUoYgF94w8%2Bo6OXMq9JDOU1QStnlKTTybrIYy5T1PDjupEs0He2b%2B%2BMFqkqC4a%2FZQ1E%2BWbY6puKi0Suf%2BV2xtjI6gWEaAAD4XtSNgoNU%2BFljhRhc5nGP%2BMrT1R%2F2Zbnl%2FC%2FTZ2GKvajjxqYOb6ffUVxF6oKOXUKdwXOvd4dkP8v44qINlK0V%2FdymerybompOoYD8KR%2B%2FdKfI7skz2rPtH68f4cNB45dsmgdSjsN3o9RePeoQzEm%2BO6ElBElYT1BiNcWwCVrOcATOGIGBQVZcBQ1jnOc9GmFTvIVw8WdcLDWsH681YPxvXkkVf2wIkURzfldWD28%2FMBApEDICp9ATvfsEAqN%2Bw7SrAfqPk2cjMFa5P36n1dvoDy%2BRV62fOLS5MYDTEu3FNDCWSBKP6D1J2z907hzVjw3qWWBVL5vHxbTrtXVYzs0J%2Fd6nS5kuRjE36SRJW9HwDtCqHf3eHAxDvgL4whNpDQYNNWHvmW72gMWgP5w%2F02M2ysrclw5Ofu%2BH9Kuh2MYeRyLRlalVpQPZ8KhC%2FIBie6%2Bq6JKuxE8NOrCA4o%2BWPswzGy2VsEfpwwayoym%2FCHZ%2FMCTLalWVMv6FK%2BsyIPsmcBClyw6SFIwrChBTIgQzIN6NO23gUDVWnWwBRVSDbDxud1wq8LnGfJd2pDrgN1LtkExQ4YXy7vAtLNM0ogKnpo8ueg7zkNxcs1dFtY6gGAmj8iRoJReQS23hS56UwwPPNuQY6sgG5JbVvy7xhu4dLRlBnt9Ch21r9KCdUiz2U5KvLiR4tfVZt%2BKzi9sMPCUSVaaKxxZj5An4F7YMhDdQ8CEimfRicf8Wov%2BDC2RI7iU5y0UbryxEFHOFWQ7PObdLR%2B5yBqHCmD%2F5X7JE%2BPUN69KzZBZfMEDkrnFg%2BuKGNwy8Q25bWMG3%2FuOhl9MpNyki5sGZhcb1Oc9uqj%2B1YcF8r5oc6%2B6a8ElaXqC5yjcLWDQPM1FF73g%2Bs&Signature=RfWvKuIvJVXlYkpEB1pg44pXdwg%3D
+4. https://airpa.io/post/entropy
+5. https://forum.manjaro.org/t/low-entropy-on-my-system/119233
+6. https://stackoverflow.com/questions/20959924/what-is-entropy-starvation
+7. https://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/
+8. https://unix.stackexchange.com/questions/200233/decreasing-or-emptying-the-entropy-pool
+9. https://www.thomas-huehn.com/myths-about-urandom/ (Really good)
+10. https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator
+11. https://en.wikipedia.org/wiki/Key_generation
+12. https://en.wikipedia.org/wiki/Tokenization_(data_security)
+13. https://stackoverflow.com/questions/44474516/how-to-create-public-and-private-key-with-openssl
+14. https://serverfault.com/questions/283294/how-to-read-in-n-random-characters-from-dev-urandom
