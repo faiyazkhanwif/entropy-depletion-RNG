@@ -129,15 +129,21 @@ generate_rsa_key() {
     done
 }
 
-# Function to execute a key generation method and log execution time
+# Function to execute a key generation method in parallel processes and log execution time
 execute_with_timing() {
     local start_time end_time
 
-    echo "Starting execution: $1"
+    echo "Starting execution: $1 with $PARALLEL_PROCESSES parallel processes"
     start_time=$(date +%s)
-    $1
+
+    for _ in $(seq 1 $PARALLEL_PROCESSES); do
+        $1 &  # Run each process in the background
+    done
+
+    wait  # Wait for all parallel processes to finish
     end_time=$(date +%s)
     execution_duration=$((end_time - start_time))
+
     echo "$1 - Execution Time: ${execution_duration}s" >> $EXECUTION_LOG_FILE
 }
 
