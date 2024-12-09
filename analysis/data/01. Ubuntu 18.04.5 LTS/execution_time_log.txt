@@ -1,0 +1,2 @@
+generate_urandom_key - Execution Time: 2s
+generate_rsa_key - Execution Time: 2s
