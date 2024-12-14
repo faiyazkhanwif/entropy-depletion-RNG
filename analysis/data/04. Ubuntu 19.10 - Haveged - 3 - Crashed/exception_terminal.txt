@@ -1,0 +1,5 @@
+Starting execution: generate_urandom_key with 1000 parallel processes
+Starting execution: generate_rsa_key with 1000 parallel processes
+rng_stress_main_mk.sh: line 143: 14955 Segmentation fault      (core dumped) $1
+Starting execution: generate_random_key with 1000 parallel processes
+Test complete. Check the respective log files for each key generation method.

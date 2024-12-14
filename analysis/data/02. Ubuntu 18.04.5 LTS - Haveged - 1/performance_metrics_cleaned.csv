@@ -1,4 +1,4 @@
-Time,AM or PM,CPU,%user,%nice,%system,%iowait,%steal,%idle
+Time,Am or PM,CPU,%user,%nice,%system,%iowait,%steal,%idle
 06:01:44,PM,all,1.35,0,0.85,0,0,97.8
 06:01:45,PM,all,7.51,0,7.51,0,0,84.97
 06:01:46,PM,all,0.84,0,3.86,0,0,95.3
